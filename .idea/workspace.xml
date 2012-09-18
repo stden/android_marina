@@ -12,11 +12,9 @@
     </option>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9ef3bef1-a1dc-4809-b5ed-df6c43461e2e" name="Default" comment="Второй вариант реализации onClick">
-      <change type="DELETED" beforePath="C:\Users\Марина\IdeaProjects\marina\.gitignore" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/vcs.xml" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
+    <list default="true" id="9ef3bef1-a1dc-4809-b5ed-df6c43461e2e" name="Default" comment="">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/marina/marina.apk.unaligned" afterPath="$PROJECT_DIR$/out/production/marina/marina.apk.unaligned" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/example/MyActivity.java" afterPath="$PROJECT_DIR$/src/com/example/MyActivity.java" />
     </list>
     <ignored path="marina.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -122,7 +120,7 @@
       <file leaf-file-name="MyActivity.java" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/com/example/MyActivity.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="29" column="25" selection-start="719" selection-end="719" vertical-scroll-proportion="0.68162394">
+            <state line="28" column="25" selection-start="689" selection-end="689" vertical-scroll-proportion="0.68162394">
               <folding />
             </state>
           </provider>
@@ -415,6 +413,11 @@
       <created>1347996986473</created>
       <updated>1347996986473</updated>
     </task>
+    <task id="LOCAL-00001" summary="Второй вариант реализации onClick">
+      <created>1348001070522</created>
+      <updated>1348001070522</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -543,7 +546,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/example/MyActivity.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="29" column="25" selection-start="719" selection-end="719" vertical-scroll-proportion="0.68162394">
+        <state line="28" column="25" selection-start="689" selection-end="689" vertical-scroll-proportion="0.68162394">
           <folding />
         </state>
       </provider>
